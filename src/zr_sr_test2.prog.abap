@@ -8,3 +8,5 @@ REPORT ZR_SR_TEST2.
 WRITE 'Hello abapGit'.
 
 WRITE 'Hello again'.
+
+WRITE 'Hello'.
